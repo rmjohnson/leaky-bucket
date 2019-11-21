@@ -77,7 +77,7 @@ await Promise.all(Array.from(set).map(async(item) => {
 
 ### pause
 
-The pause method can be use to pause the bucket for n seconds until it is allwed to resume.
+The pause method can be use to pause the bucket for n seconds until it is allowed to resume.
 
 
 ```javascript
